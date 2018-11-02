@@ -11,7 +11,7 @@ html {
 .page {
   width: 800px;
   margin: 50px auto;
-  background-color: #fff;
+  background-color: cornsilk;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -51,9 +51,11 @@ td{
 
 dt{
 	font-weight: bold;
+    padding: 10px;
+    
 }
 
-dt > em{
+dt > em {
 	font-family: Arial;
 	font-size: 16px;
 }
@@ -101,7 +103,8 @@ hr:last-of-type {
 .color1 dl {
 	padding-left: 10px;
 }
-
-dl em {
+.example {
     padding-left: 50px;
+    padding-top: 10px;
+    font-family: cursive;
 }
