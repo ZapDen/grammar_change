@@ -101,3 +101,7 @@ hr:last-of-type {
 .color1 dl {
 	padding-left: 10px;
 }
+
+dl em {
+    padding-left: 50px;
+}
