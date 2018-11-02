@@ -1,0 +1,91 @@
+.page {
+	width: 700px;
+	margin: 50px auto;
+	background-color: #f2f2f2;
+}
+
+/*body{
+	padding: 50px 120px;
+	margin: 0 220px;
+	width: 700px;
+}
+*/
+h2{
+	text-align: center;
+	color: blue;
+	background-color: #DDE0E3;
+	margin-top: 50px;
+	border-radius: 5px;
+}
+
+h3{
+	text-align: center;
+}
+
+hr{
+	width: 50%;
+}
+
+table{
+	text-align: center;
+}
+
+td{
+	text-align: left;
+	width: 200px;
+	vertical-align: top;
+}
+
+
+dt{
+	font-weight: bold;
+}
+
+dt > em{
+	font-family: Arial;
+	font-size: 16px;
+}
+
+caption{
+	font-size: 25px;
+	color: blue;
+	font-weight: bold;
+}
+ol{
+	padding: 0 20px;
+	font-style: italic;
+}
+
+ol > li{
+	font-style: normal;
+	font-weight: bold;
+}
+
+table:last-of-type {		/* we could use :last-of-type to add some space after the last table*/
+	margin-bottom: 50px; 
+}
+
+hr:last-of-type {
+	border: 15px solid #DDE0E3; 
+	width: 100%;
+	margin-top: 30px;
+	border-radius: 5px;
+}
+
+.color1 {
+	background-color: #edefe3;
+	border-radius: 5px;
+}
+
+.color2 {
+	background-color: #efeae3;
+	border-radius: 5px;
+}
+
+.color2 dl {
+	padding-left: 10px;
+}
+
+.color1 dl {
+	padding-left: 10px;
+}
