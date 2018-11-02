@@ -3,10 +3,10 @@ html {
 }
 
 .page {
-	width: 800px;
-	margin: 50px auto;
-	background-color: #fff;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 800px;
+  margin: 50px auto;
+  background-color: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /*body{
@@ -15,11 +15,12 @@ html {
 	width: 700px;
 }
 */
+
 h2{
 	text-align: center;
 	color: blue;
 	background-color: #DDE0E3;
-	margin-top: 50px;
+	margin-top: 0;
 	border-radius: 5px;
 }
 
@@ -77,15 +78,15 @@ hr:last-of-type {
 	border-radius: 5px;
 }
 
-/*.color1 {
+.color1 {
 	background-color: #edefe3;
 	border-radius: 5px;
-}*/
+}
 
-/*.color2 {
+.color2 {
 	background-color: #efeae3;
 	border-radius: 5px;
-}*/
+
 
 .color2 dl {
 	padding-left: 10px;
