@@ -11,7 +11,7 @@ html {
 .page {
   width: 800px;
   margin: 50px auto;
-  background-color: cornsilk;
+  background-color:aliceblue;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -106,5 +106,4 @@ hr:last-of-type {
 .example {
     padding-left: 50px;
     padding-top: 10px;
-    font-family: cursive;
 }
